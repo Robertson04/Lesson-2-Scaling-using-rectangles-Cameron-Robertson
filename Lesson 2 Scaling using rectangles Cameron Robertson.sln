@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30309.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson 2 Scaling using rectangles Cameron Robertson", "Lesson 2 Scaling using rectangles Cameron Robertson\Lesson 2 Scaling using rectangles Cameron Robertson.csproj", "{77AA3651-ACEC-432B-B643-DCEFC309F2AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77AA3651-ACEC-432B-B643-DCEFC309F2AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77AA3651-ACEC-432B-B643-DCEFC309F2AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77AA3651-ACEC-432B-B643-DCEFC309F2AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77AA3651-ACEC-432B-B643-DCEFC309F2AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BF7ACFD6-C8FC-4C80-961A-E2BBF2FE6789}
+	EndGlobalSection
+EndGlobal
